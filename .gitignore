@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs
+/BuberBreakfast.Contracts/bin/Debug/net6.0
+/BuberBreakfast.Contracts/obj/Debug/net6.0/ref
+/BuberBreakfast.Contracts/obj/Debug/net6.0/refint
+/BuberBreakfast.Contracts/obj/Debug/net6.0
